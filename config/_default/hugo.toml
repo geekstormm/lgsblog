@@ -4,10 +4,13 @@
 # -------------------------------------------------------------------------------------
 
 title = "Hugo FixIt Blog"
-baseURL = "https://hugo-fixit.github.io/hugo-fixit-starter1/"
+baseURL = "https://geekstormm.github.io/"
 theme = "FixIt"
-defaultContentLanguage = "en"
-languageCode = "en"
+
+defaultContentLanguage = "zh-cn"
+languageCode = "zh-CN"
+languageName = "简体中文"
+
 hasCJKLanguage = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -15,5 +18,11 @@ enableGitInfo = true
 relativeURLs = false
 buildDrafts = false
 summaryLength = 150
+
 # ignore some build errors
-ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+ignoreLogs = [
+  "error-get-remote-image",
+  "error-get-remote-json",
+  "error-remote-getjson",
+  "error-missing-instagram-accesstoken"
+]
