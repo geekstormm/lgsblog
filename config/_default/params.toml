@@ -41,7 +41,7 @@ disableThemeInject = false
   name = "LGS"
   email = "602272732@qq.com"
   link = "https://github.com/geekstormm"
-  avatar = ""
+  avatar = "/images/avatar.png"
 
 # FixIt 0.3.0 | NEW public Git repository information only then enableGitInfo is true
 [gitInfo]
@@ -218,9 +218,9 @@ disableThemeInject = false
   [home.profile]
     enable = true
     # Gravatar Email for preferred avatar in home page
-    gravatarEmail = "xx@xx.com"
+    # gravatarEmail = "xx@xx.com"
     # URL of avatar shown in home page
-    avatarURL = ""
+    avatarURL = "/images/avatar.png"
     # FixIt 0.2.17 | NEW identifier of avatar menu link
     avatarMenu = ""
     # title shown in home page (HTML format is supported)
@@ -459,7 +459,7 @@ disableThemeInject = false
 # FixIt 0.2.14 | NEW Gravatar config
 [gravatar]
   # FixIt 0.2.18 | NEW Depends on the author's email, if the author's email is not set, the local avatar will be used
-  enable = true
+  enable = false
   # Gravatar host, default: "www.gravatar.com"
   host = "www.gravatar.com" # ["cravatar.cn", "gravatar.loli.net", ...]
   style = "" # ["", "mp", "identicon", "monsterid", "wavatar", "retro", "blank", "robohash"]

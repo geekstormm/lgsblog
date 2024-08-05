@@ -1,4 +1,19 @@
-# Leetcode 2216
+---
+title: Leetcode2216
+date: 2024-08-06T00:23:25+08:00
+tags:
+  - Leetcode
+categories:
+  - Leecode
+  - Git
+twemoji: false
+# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
+---
+
+<!--more-->
+
+
+## Leetcode 2216
 
 直接模拟
 
@@ -19,6 +34,3 @@ public:
     }
 };
 ```
-
-
-
