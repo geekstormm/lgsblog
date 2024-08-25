@@ -4,12 +4,7 @@ subtitle:
 date: 2024-08-17T13:32:20+08:00
 slug: f1a5e95
 draft: true
-author:
-  name:
-  link:
-  email:
-  avatar:
-description:
+description: 进程和线程的区别远远没你想象中的大!🤯
 keywords:
 license:
 comment: false
