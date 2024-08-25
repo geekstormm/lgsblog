@@ -302,13 +302,13 @@ disableThemeInject = false
   Gitea = ""
   XMPP = ""
   Matrix = ""
-  Bilibili = ""
+  Bilibili = "91935813"
   ORCID = ""
   Liberapay = ""
   Ko-Fi = ""
   BuyMeaCoffee = ""
   Linktree = ""
-  QQ = ""
+  QQ = "geekstorm"
   QQGroup = "" # https://qun.qq.com/join.html
   Diaspora = ""
   CSDN = ""
@@ -326,7 +326,7 @@ disableThemeInject = false
   Douyin = ""
   TikTok = ""
   Phone = ""
-  Email = ""
+  Email = "602272732@qq.com"
   RSS = true
   # custom social links like the following
   # [social.twitter]

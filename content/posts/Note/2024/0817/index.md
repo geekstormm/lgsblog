@@ -1,27 +1,15 @@
 ---
-title: Index
+title: Clangd工作原理
 subtitle:
 date: 2024-08-17T23:53:10+08:00
-slug: 3fa4179
-draft: true
-author:
-  name:
-  link:
-  email:
-  avatar:
 description:
 keywords:
 license:
-comment: false
 weight: 0
 tags:
-  - draft
+  - 编译
 categories:
-  - draft
-hiddenFromHomePage: false
-hiddenFromSearch: false
-hiddenFromRss: false
-hiddenFromRelated: false
+  - 编译
 summary:
 resources:
   - name: featured-image
@@ -31,11 +19,7 @@ resources:
 toc: true
 math: false
 lightgallery: false
-password:
-message:
-repost:
-  enable: true
-  url:
+
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
