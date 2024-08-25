@@ -1,5 +1,5 @@
 ---
-title: Index
+title: 进程与线程的创建
 subtitle:
 date: 2024-08-18T01:32:36+08:00
 slug: a7f3bdf
@@ -15,27 +15,11 @@ license:
 comment: false
 weight: 0
 tags:
-  - draft
+  - Linux
+  - Process
 categories:
-  - draft
-hiddenFromHomePage: false
-hiddenFromSearch: false
-hiddenFromRss: false
-hiddenFromRelated: false
-summary:
-resources:
-  - name: featured-image
-    src: featured-image.jpg
-  - name: featured-image-preview
-    src: featured-image-preview.jpg
-toc: true
-math: false
-lightgallery: false
-password:
-message:
-repost:
-  enable: true
-  url:
+  - Linux
+
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
