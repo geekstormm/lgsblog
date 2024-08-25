@@ -3,13 +3,7 @@ title: 进程与线程的创建
 subtitle:
 date: 2024-08-18T01:32:36+08:00
 slug: a7f3bdf
-draft: true
-author:
-  name:
-  link:
-  email:
-  avatar:
-description:
+description: 线程与进程的创建过程差异在哪里🧐
 keywords:
 license:
 comment: false
