@@ -1,0 +1,41 @@
+// ==============================
+// Custom style
+// 自定义样式
+// ==============================
+
+.home {
+    .profile-ghchart {
+        padding: 0.5rem;
+        width: MIN(663px, 100%);
+        aspect-ratio: 663/104;
+    }
+}
+.single .content {
+    .highlight {
+        position: relative;
+        > div {
+            padding-top: 30px;
+            &::after {
+                background: #fc625d;
+                box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
+                left: 12px;
+                top: 9px;
+                position: absolute;
+                border-radius: 50%;
+                content: ' ';
+                height: 12px;
+                width: 12px;
+            }
+        }
+        > div,
+        .table-wrapper {
+            border-radius: 5px;
+        }
+        code {
+            color: inherit;
+        }
+        pre {
+            border-radius: 0 !important;
+        }
+    }
+}

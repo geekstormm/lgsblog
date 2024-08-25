@@ -3,13 +3,15 @@
 # See: https://gohugo.io/templates/output-formats/#customizing-output-formats
 # -------------------------------------------------------------------------------------
 
+_merge = "shallow"
+
 # Options to make hugo output files, the optional values are below:
-# home: ["HTML", "RSS", "JSON", "archives", "offline", "README", "baidu_urls"]
+# home: ["HTML", "RSS", "search", "archives", "offline", "README", "baidu_urls"]
 # page: ["HTML", "MarkDown"]
 # section: ["HTML", "RSS"]
 # taxonomy: ["HTML", "RSS"]
 # term: ["HTML", "RSS"]
-home = ["HTML", "RSS", "JSON", "archives", "offline"]
+home = ["HTML", "RSS", "search", "archives", "offline"]
 page = ["HTML", "MarkDown"]
 section = ["HTML", "RSS"]
 taxonomy = ["HTML"]

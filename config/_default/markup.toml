@@ -10,7 +10,8 @@
   codeFences = true
   lineNos = true
   lineNumbersInTable = true
-  noClasses = false
+  noClasses = true
+  style = "dracula"
   ########## necessary configurations ##########
   guessSyntax = true
 
