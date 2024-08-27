@@ -11,7 +11,7 @@ categories:
 summary:
 resources:
   - name: featured-image
-    src: featured-image.jpg
+    src: cover.png
 lightgallery: false
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
