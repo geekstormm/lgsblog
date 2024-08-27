@@ -3,7 +3,6 @@ title: 观察者模式
 subtitle:
 date: 2024-08-17T01:07:17+08:00
 # slug: babc349
-draft: true
 weight: 0
 tags:
   - 观察者模式
