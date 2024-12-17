@@ -180,7 +180,7 @@ std::copy(std::make_move_iterator(source.begin()),
 
 ### 对于初学者：
 
-1.  当你需要转移一个大对象的所有权时，使用std::move：
+1. 当你需要转移一个大对象的所有权时，使用std::move：
 
 ```C++
 string str = "hello";
@@ -189,7 +189,7 @@ vec.push_back(std::move(str));  // str的内容被移动到vector中
 // 注意：此时str变成了空字符串
 ```
 
-1.  注意移动后的对象状态：
+2. 注意移动后的对象状态：
 
 ```C++
 string str = "hello";
@@ -197,7 +197,8 @@ string new_str = std::move(str);
 // 此时str是空的，不要继续使用它
 ```
 
-1.  使用不可复制但是可以移动的类型如`unique_ptr`时。
+3. 使用不可复制但是可以移动的类型如`unique_ptr`时。
+4. 不要对const对象使用'std::move'。
 
 ## 总结
 
